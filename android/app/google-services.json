@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944271926653",
+    "project_id": "xam-xhat",
+    "storage_bucket": "xam-xhat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944271926653:android:9ff7591f29f0d41251d814",
+        "android_client_info": {
+          "package_name": "com.xamorite.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbobyNAt7R0lNXcV5TdpNEllBrVy1B-0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
